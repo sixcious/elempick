@@ -9,14 +9,20 @@
 <a href="https://addons.mozilla.org/firefox/addon/elempick/" title="Download for Mozilla Firefox"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/firefox.svg?sanitize=true" height="64" alt="Mozilla Firefox"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Important Note
-ElemPick contains some experimental ideas and features. Unfortunately, this means it might contain a few bugs and it might not work on every website you try it on! But I really want you to be 100% happy with it, so if something isn't working right, or if there's a feature you think is missing, please feel free to open an issue and give me a chance to fix it and I promise I will.
+## Important
+I want you to be 100% happy with ElemPick! If something isn't working right, or if there's a feature you think is missing, [please open an issue on GitHub](https://github.com/sixcious/elempick/issues) and give me a chance to help before leaving a review.
 
 ## About
-ElemPick is a a simple Element Picker that can generate CSS Selectors and XPath Expressions.
+ElemPick is a simple element picker that can generate a path to an HTML element on the page without requiring any permissions from you. Click on the toolbar icon, then click on the element you want on the page, and then click the Clipboard Button above the path in the small UI Window to copy it.
 
 ## Features
-- Element Picker to help you select elements on the page when needed
+- Generates a CSS Selector or XPath Expression for an element on the page
+- Can also generate JS Paths (JavaScript Paths)
+- Dual algorithm support: Use ElemPick's internal algorithm or Chromium's
+- Context Menu Option available so ElemPick can be one right click away
+- DOM Traversal Buttons to allow you to navigate to a nearby element
+- Limited support for elements inside Shadow DOM and Same-Origin Iframes
+- Options: Optimize paths and choose your preferred quote style
 - User Interface: A simple UI made with Material Design and Lit
 
 ## Documentation
@@ -35,10 +41,10 @@ Because it's still very new, ElemPick is currently proprietary. I do want to mak
 I use [Terser](https://github.com/terser/terser) to minify the source code for production releases that I upload to your browser's web store. I mainly do this because I write a lot of comments and `console.log()` statements for debugging and because it cuts down the file size significantly. That said, you can always view a "Pretty Print" of the source code by using a [CRX Viewer](https://robwu.nl/crxviewer/) to inspect it before installing it.
 
 ## Permissions Justification
-No permissions needed.
+No permissions are needed.
 
 ## Privacy Policy
-ElemPick does *not* track you. It does *not* use analytic services. It does *not* collect any data from your device or computer. All your data is stored locally on your device. Your data is *your* data.
+ElemPick does not track you. It does not use analytic services. It does not collect any data from your device or computer. All your data is stored locally on your device. Your data is *your* data.
 
 ## License
 <a href="https://github.com/sixcious/elempick/blob/main/LICENSE">View License</a>
