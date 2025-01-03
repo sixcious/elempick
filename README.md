@@ -1,5 +1,5 @@
 # ElemPick
-<img src="https://raw.githubusercontent.com/sixcious/assets/main/repository/elempick/icon.svg?sanitize=true" width="196" height="196" alt="ElemPick" title="ElemPick">
+<img src="https://raw.githubusercontent.com/sixcious/assets/main/repository/elempick/icon.svg?sanitize=true" width="128" height="128" alt="ElemPick" title="ElemPick">
 
 ## Available For
 <a href="https://chromewebstore.google.com/detail/elempick/bgcbdbijjohohjnckgpccjfimlkfbjdi" title="Download for Google Chrome"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/chrome.svg?sanitize=true" height="64" alt="Google Chrome"></a>
