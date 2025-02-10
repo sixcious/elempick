@@ -46,6 +46,11 @@ No permissions are needed.
 ## Privacy Policy
 ElemPick does not track you. It does not use analytic services. It does not collect any data from your device or computer. All your data is stored locally on your device. Your data is *your* data.
 
+https://microsoftedge.microsoft.com/addons/detail/infy-scroll/fmdemgjiipojpgemeljnbaabjeinicba
+
+## Contributing
+Thank you for considering to contribute! The best way you can help me is to leave a review on the [Chrome Web Store](https://chromewebstore.google.com/detail/elempick/bgcbdbijjohohjnckgpccjfimlkfbjdi/reviews), [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/elempick/kfhfjhgebjkeagaaobmhecnlohcclpmp), or [Mozilla Firefox Add-ons](https://addons.mozilla.org/firefox/addon/elempick/). I really appreciate your support.
+
 ## License
 <a href="https://github.com/sixcious/elempick/blob/main/LICENSE">View License</a>
 
