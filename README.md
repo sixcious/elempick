@@ -32,13 +32,13 @@ ElemPick is a simple element picker that can generate a path to an HTML element 
 ## FAQ
 
 #### What is the minimum browser version (and why is it to so high)?
-ElemPick currently requires Chrome/Edge `120` and Firefox `128` and higher to run. I usually update the minimum browser version every time I do a release so I can use the latest and greatest ECMAScript features without worry. If your browser doesn't support ElemPick, I'm afraid you'll have to use another app/extension (sorry!).
-
-#### Where's the source code?
-Because it's still very new, ElemPick is currently proprietary. I do want to make it open source in the future, though (I thank you for your understanding).
+The current minimum browser version is Chrome/Edge/Firefox `128`. I usually update the minimum browser version every time I do a release so I can use the latest and greatest ECMAScript features without worry. If your browser doesn't support it, I'm afraid you'll have to use another app/extension (sorry!).
 
 #### Why is the production version's source code minified?
-I use [Terser](https://github.com/terser/terser) to minify the source code for production releases that I upload to your browser's web store. I mainly do this because I write a lot of comments and `console.log()` statements for debugging and because it cuts down the file size significantly. That said, you can always view a "Pretty Print" of the source code by using a [CRX Viewer](https://robwu.nl/crxviewer/) to inspect it before installing it.
+I use [Terser](https://github.com/terser/terser) to minify the source code for production releases that I upload to your browser's web store. I mainly do this because I write a lot of comments and `console.log()` statements for debugging and because it cuts down the file size significantly.
+
+#### Where's the source code?
+Because it's still very new, ElemPick is currently proprietary. I may make it open source in the future, though (I thank you for your understanding).
 
 ## Permissions Justification
 No permissions are needed.
