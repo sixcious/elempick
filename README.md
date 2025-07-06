@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/sixcious/assets/main/repository/elempick/icon.svg?sanitize=true" width="128" height="128" alt="ElemPick" title="ElemPick">
 
 ## Available For
-<a href="https://chromewebstore.google.com/detail/elempick/bgcbdbijjohohjnckgpccjfimlkfbjdi" title="Download for Google Chrome"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/chrome.svg?sanitize=true" height="64" alt="Google Chrome"></a>
+<a href="https://chromewebstore.google.com/detail/elempick/bgcbdbijjohohjnckgpccjfimlkfbjdi" title="Download for Google Chrome"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/chrome.svg?sanitize=true" width="64" height="64" alt="Google Chrome"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://microsoftedge.microsoft.com/addons/detail/elempick/kfhfjhgebjkeagaaobmhecnlohcclpmp" title="Download for Microsoft Edge"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/edge.svg" height="64" alt="Microsoft Edge"></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/elempick/kfhfjhgebjkeagaaobmhecnlohcclpmp" title="Download for Microsoft Edge"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/edge.svg" width="64" height="64" alt="Microsoft Edge"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://addons.mozilla.org/firefox/addon/elempick/" title="Download for Mozilla Firefox"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/firefox.svg?sanitize=true" height="64" alt="Mozilla Firefox"></a>
+<a href="https://addons.mozilla.org/firefox/addon/elempick/" title="Download for Mozilla Firefox"><img src="https://raw.githubusercontent.com/sixcious/assets/main/vendor/firefox.svg?sanitize=true" width="64" height="64" alt="Mozilla Firefox"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Important
